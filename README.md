@@ -1,0 +1,2 @@
+# angular
+GitIgnore para angular
